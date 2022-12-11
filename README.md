@@ -1,3 +1,3 @@
 # gymster
 
-## gym equipment
+## Gym Equipment
